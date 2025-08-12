@@ -1,0 +1,41 @@
+Student_ID,Name,Gender,Age,GPA,Attendance_Percentage,Courses_Passed,Programming_Skills,Communication_Skills,Projects_Completed,Internship_Experience,Promotion_Status
+CS001,Alex Chen,Male,20,3.85,94.5,12,9,8,5,Yes,Promoted
+CS002,Maria Rodriguez,Female,21,3.92,96.8,13,10,9,6,Yes,Promoted
+CS003,James Wilson,Male,19,3.45,88.2,10,7,6,3,No,Not Promoted
+CS004,Sarah Johnson,Female,22,3.78,92.1,11,8,9,4,Yes,Promoted
+CS005,David Kim,Male,20,3.65,89.7,11,8,7,4,Yes,Promoted
+CS006,Emma Davis,Female,21,3.88,95.3,12,9,8,5,Yes,Promoted
+CS007,Michael Brown,Male,19,3.22,85.4,9,6,5,2,No,Not Promoted
+CS008,Lisa Anderson,Female,20,3.91,97.2,13,10,9,6,Yes,Promoted
+CS009,Robert Taylor,Male,22,3.56,90.8,11,7,8,4,Yes,Promoted
+CS010,Jennifer Lee,Female,21,3.79,93.5,12,8,9,5,Yes,Promoted
+CS011,Chris Martinez,Male,20,3.33,87.1,10,6,7,3,No,Not Promoted
+CS012,Amanda White,Female,19,3.95,98.1,13,10,9,7,Yes,Promoted
+CS013,Daniel Garcia,Male,21,3.67,91.2,11,8,7,4,Yes,Promoted
+CS014,Rachel Thompson,Female,20,3.84,94.8,12,9,8,5,Yes,Promoted
+CS015,Matthew Miller,Male,22,3.41,86.9,10,7,6,3,No,Not Promoted
+CS016,Jessica Clark,Female,21,3.73,92.7,11,8,8,4,Yes,Promoted
+CS017,Andrew Rodriguez,Male,19,3.58,89.3,11,7,7,4,Yes,Promoted
+CS018,Michelle Lewis,Female,20,3.87,95.1,12,9,8,5,Yes,Promoted
+CS019,Kevin Walker,Male,21,3.29,84.7,9,6,6,2,No,Not Promoted
+CS020,Laura Hall,Female,22,3.81,93.9,12,8,9,5,Yes,Promoted
+CS021,Steven Young,Male,20,3.52,90.4,11,7,7,4,Yes,Promoted
+CS022,Nicole King,Female,19,3.96,98.7,13,10,10,6,Yes,Promoted
+CS023,Paul Wright,Male,21,3.38,86.2,10,6,6,3,No,Not Promoted
+CS024,Amy Lopez,Female,20,3.75,92.8,11,8,8,4,Yes,Promoted
+CS025,Jason Hill,Male,22,3.63,89.9,11,8,7,4,Yes,Promoted
+CS026,Melissa Green,Female,21,3.89,95.6,12,9,9,5,Yes,Promoted
+CS027,Ryan Adams,Male,19,3.27,85.1,9,6,5,2,No,Not Promoted
+CS028,Stephanie Baker,Female,20,3.82,94.2,12,8,8,5,Yes,Promoted
+CS029,Thomas Nelson,Male,21,3.69,91.5,11,8,7,4,Yes,Promoted
+CS030,Karen Turner,Female,22,3.77,93.2,11,8,8,4,Yes,Promoted
+CS031,Mark Phillips,Male,20,3.35,87.8,10,6,6,3,No,Not Promoted
+CS032,Linda Campbell,Female,21,3.93,97.5,13,10,9,6,Yes,Promoted
+CS033,Steve Evans,Male,19,3.48,88.9,10,7,6,3,No,Not Promoted
+CS034,Angela Murphy,Female,20,3.86,95.8,12,9,9,5,Yes,Promoted
+CS035,George Rivera,Male,22,3.61,90.1,11,7,7,4,Yes,Promoted
+CS036,Diana Cooper,Female,21,3.74,92.3,11,8,8,4,Yes,Promoted
+CS037,Brian Foster,Male,20,3.31,86.5,10,6,6,3,No,Not Promoted
+CS038,Helen Ward,Female,19,3.98,99.1,13,10,10,7,Yes,Promoted
+CS039,Scott Torres,Male,21,3.59,89.7,11,7,7,4,Yes,Promoted
+CS040,Cynthia Reed,Female,22,3.83,94.6,12,9,8,5,Yes,Promoted

@@ -1,0 +1,31 @@
+Student_ID,Name,GPA,Courses_Passed,Attendance_Percentage,Promotion_Status
+CSE001,Musa Muhammed,3.20,11,88,Promoted
+CSE002,Ayman Sayyid,2.75,9,82,Promoted
+CSE003,Ali Hassan,1.40,6,60,Not Promoted
+CSE004,Adam Moha,3.50,12,92,Promoted
+CSE005,Isa Jibo,1.10,4,45,Not Promoted
+CSE006,John Machelle,2.90,10,85,Promoted
+CSE007,Aisha Isa,3.80,12,95,Promoted
+CSE008,Sarah Khalid,2.10,7,70,Not Promoted
+CSE009,Omar Farouk,3.00,10,87,Promoted
+CSE010,Fatima Yusuf,2.55,8,78,Promoted
+CSE011,Hassan Bello,1.25,5,55,Not Promoted
+CSE012,Mariam Sule,3.60,12,93,Promoted
+CSE013,Ibrahim Musa,2.00,7,65,Not Promoted
+CSE014,Khalid Usman,3.10,11,88,Promoted
+CSE015,Zainab Ahmed,2.80,9,80,Promoted
+CSE016,Musa Aliyu,1.75,6,58,Not Promoted
+CSE017,Salma Lawal,3.25,11,89,Promoted
+CSE018,Abdullahi Umar,1.95,6,63,Not Promoted
+CSE019,Halima Garba,2.70,9,81,Promoted
+CSE020,Yusuf Ibrahim,3.40,12,90,Promoted
+CSE021,Amira Zakari,2.15,7,72,Not Promoted
+CSE022,Mustapha Ismail,3.05,10,85,Promoted
+CSE023,Farida Ahmed,1.60,5,54,Not Promoted
+CSE024,Bashir Tijjani,2.95,10,83,Promoted
+CSE025,Hafsat Bala,3.75,12,96,Promoted
+CSE026,Abubakar Shehu,1.35,4,48,Not Promoted
+CSE027,Bilkisu Haruna,2.85,9,79,Promoted
+CSE028,Ahmad Sani,3.55,12,94,Promoted
+CSE029,Khadija Musa,1.50,5,52,Not Promoted
+CSE030,Usman Abdallah,2.65,8,77,Promoted
